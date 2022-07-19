@@ -8,7 +8,7 @@ export function Suggestion(props) {
     return (
         <div className="container-suggestion">
             <div className="header-suggestion">
-                <img src={`https://github.com/gabrieldiasss.png`} />
+                <img src={`https://avatars.githubusercontent.com/u/73445411?s=96&v=4`} />
 
                 <div className="user-infos-suggestion">
 
