@@ -48,7 +48,7 @@ export function Header(){
                  
                       
                     </IconContext.Provider>        
-                    <img  className="img-user" src="https://github.com/gabrieldiasss.png"  />           
+                    <img  className="img-user" src="https://avatars.githubusercontent.com/u/73445411?s=96&v=4"  />           
                 </div>
 
             </div>
